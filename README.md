@@ -1,0 +1,1 @@
+Basic RESTful API built with Flask, following: https://medium.com/incresco/how-i-have-created-and-deployed-restful-api-using-python-and-heroku-step-by-step-guide-5b9612e6a532
